@@ -1,6 +1,8 @@
 
 """
 These are some image augmenting functions. 
+Author : threedee003
+Date : 17.04.2022
 
 """
 
